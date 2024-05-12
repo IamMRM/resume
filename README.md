@@ -1,5 +1,5 @@
 # Muhammad Roshan Mughees - Data Scientist
-
+![](/assets/img/Screenshot_2024-04-23_at_23.32.05-removebg-preview.png)
 Welcome to my professional portfolio on GitHub. Here, you can find details about my skills, experience, and projects in data science and machine learning.
 
 ## 🌍 Based in Munich, Germany
