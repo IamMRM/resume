@@ -48,6 +48,7 @@ Welcome to my professional portfolio on GitHub. Here, you can find details about
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Programming:** Python, C++
 - **Data Analysis:** SQL, MongoDB, Pandas, Numpy
+- **Azure AI DataScience
 
 ---
 
